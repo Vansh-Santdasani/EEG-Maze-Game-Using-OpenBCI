@@ -8,5 +8,6 @@ Important points to remember:
 3) Adjust the COM port according to your system
 
 For more information about the project and to understand it better, please refer to the documentation provided above
-![Screenshot from 2024-03-31 16-01-07](https://github.com/Vansh-Santdasani/EEG-Maze-Game-Using-OpenBCI/assets/156500918/120792c8-9472-472b-a3ba-82e01396c0d0)
 ![Screenshot from 2024-03-31 16-00-34](https://github.com/Vansh-Santdasani/EEG-Maze-Game-Using-OpenBCI/assets/156500918/3323d481-fdf1-4fa7-92ec-d6df0392b42c)
+
+![Screenshot from 2024-03-31 16-01-07](https://github.com/Vansh-Santdasani/EEG-Maze-Game-Using-OpenBCI/assets/156500918/120792c8-9472-472b-a3ba-82e01396c0d0)
